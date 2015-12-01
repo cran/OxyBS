@@ -1,0 +1,5 @@
+# Export all names
+exportPattern(".")
+
+importFrom("stats", "dbeta", "optim")
+

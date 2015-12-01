@@ -1,0 +1,15 @@
+623179b0dabfe398fe9943092e06baa7 *DESCRIPTION
+8a466c8e9435f0b61e5dd5e8eacad2e4 *NAMESPACE
+03e6726f4f72a85d5339bbe24ab4e377 *R/OxyBS.R
+9c1dd71f7a0ff831817293a523c22b33 *data/OxyBSSampleData.RData
+2002a1ae83b29cdbd8dcd02275716f0b *man/diffBeta1.Rd
+a4adb9aa7f44b4617edb8a6d0974258c *man/diffBeta2.Rd
+26a99331efe1953d47cf3f82360f0817 *man/exampleMethBS.Rd
+7740cd5deb6f75e847d04c38c42eab36 *man/exampleMethOxBS.Rd
+a5ebfdf4ee0c4625fe57956c745f6c9b *man/exampleUnmethBS.Rd
+7a5f964fd11063b37bbd06e129efc725 *man/exampleUnmethOxBS.Rd
+5a1de59ca1fc20e136dccf3425320503 *man/fitOneOxBS.Rd
+d83092163f5d18de6948d51e44c6a858 *man/fitOxBS.Rd
+72025b5367e3ea324c698938ee855c3a *man/likeOxBS.Rd
+78eea751198b1f8d465474c5efe4a4cc *man/rfEwasExampleCovariate.Rd
+2973857c588fe45219fc39b15b067777 *man/scoreOxBS.Rd
